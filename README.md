@@ -46,14 +46,13 @@ Berikut adalah;
 
    ![Screenshot from 2024-09-11 00-13-06](https://github.com/user-attachments/assets/10a15bb8-2c0a-4c81-b89a-ebe6df7dfbd8)
 
-
 7. Hapuslah direktori maret.
 
    ![Screenshot from 2024-09-11 00-17-50](https://github.com/user-attachments/assets/20dccb30-6221-437a-9c65-d147801af6a6)
 
-
-
 8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk         membuat direktori baru haha pada sub direktori februari.
+
+    ![Screenshot from 2024-09-11 00-23-13](https://github.com/user-attachments/assets/85f67490-4551-478f-b021-2acba9a0e96b)
 
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya?
 
