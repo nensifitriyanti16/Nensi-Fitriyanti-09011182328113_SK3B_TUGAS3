@@ -49,7 +49,8 @@ Berikut adalah;
 
 7. Hapuslah direktori maret.
 
-    ![Screenshot from 2024-09-11 00-15-17](https://github.com/user-attachments/assets/0996c63f-a316-4206-aca7-36eb569e50ec)
+   ![Screenshot from 2024-09-11 00-17-50](https://github.com/user-attachments/assets/20dccb30-6221-437a-9c65-d147801af6a6)
+
 
 
 8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk         membuat direktori baru haha pada sub direktori februari.
