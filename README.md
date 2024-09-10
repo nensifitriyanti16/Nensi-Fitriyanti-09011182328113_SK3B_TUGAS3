@@ -53,3 +53,5 @@ Berikut adalah;
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya?
 
 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah. list perhatikan berapa        link yang terjadi?
+
+</dir>
