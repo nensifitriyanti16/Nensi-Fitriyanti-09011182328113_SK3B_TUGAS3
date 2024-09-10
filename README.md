@@ -20,7 +20,9 @@ Berikut adalah;
 
 1. Lihat peralatan I/O, character divace, yang ada pada system komputer.
 
-   ![tugas so nomor 1 versi 2](https://github.com/user-attachments/assets/b05420d1-0819-48e1-9caf-a3bf84a7b9b7)
+   ![tugas so nomor 1](https://github.com/user-attachments/assets/3c6ebfb8-2ba5-4b79-8188-c71e45818310)
+
+    ![Screenshot from 2024-09-05 09-41-00](https://github.com/user-attachments/assets/72693bc9-86e9-4d77-9aac-a8925fe7b272)
 
 2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori latihan5.
 
